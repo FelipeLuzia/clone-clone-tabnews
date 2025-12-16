@@ -2,6 +2,7 @@
 
 https://curso.dev | https://www.tabnews.com.br/
 
+```
 📦root/
 ├──📂pages/
 │ └──📄index.js
@@ -16,3 +17,4 @@ https://curso.dev | https://www.tabnews.com.br/
 │ ├──📂staging/
 │ └──📂production/
 └──📂tests/
+```
